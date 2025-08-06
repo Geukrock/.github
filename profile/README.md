@@ -3,7 +3,8 @@
 
 ---
 
-## 기술 스택
+## Project Stack
 - **Backend**: Spring Boot, JPA, MySQL, QueryDSL
 - **Frontend**: React
 - **CI/CD**: GitHub Actions
+- **ETC**: Amazon EC2
